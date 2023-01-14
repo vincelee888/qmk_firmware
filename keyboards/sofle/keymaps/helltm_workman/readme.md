@@ -7,7 +7,7 @@ Features:
 
 - Modes for Workman and Games support. Games swaps enter and space to play FPS games and adds directional arrows.
 - Modified Workman layout.
-- The OLED on master half shows selected OS, Layer and caps lock state.
+- The OLED on master half shows selected OS and Layer state.
 - The secondary display shows a logo and the wpm counter.
 - Left encoder controls arrow left/right. Right encoder arrow up/down.
 - Holding shift changes the encoders to next/previous and volup/voldown respectively.
